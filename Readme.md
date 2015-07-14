@@ -12,6 +12,18 @@ One of the cooler features of jQuery is animation. The concept is pretty simple:
 
 It turns out there is some somewhat complicated math for the values of the properties as they are changing, but you don’t have to worry about that at all. Instead, you describe to jQuery exactly how you want the animation to happen - how long it should take, and what rate the change should happen - and it figures all that out for you.
 
+
+### Animation using the animate() Method
+The full syntax for the animate() method is below:
+
+`$(selector).animate({params},speed,callback);`
+
+* *params*  defines the CSS properties to be animated.
+
+* *speed* is optional and  specifies the duration of the effect "slow", "fast", or milliseconds.
+
+* *callback* is an optional function to be executed after the animation completes.
+
 Here's an example:
 ```
 $('p').animate(
@@ -21,6 +33,7 @@ $('p').animate(
 ```
 Over 1500 ms, the font-size in the paragraphs will change from whatever it was to 24.
 
+#### Animation Shortcuts
 There are also some convenient shortcut methods for common animations developers use all the time:
 - .slideUp() - slide an element up a distance
 - .slideDown()

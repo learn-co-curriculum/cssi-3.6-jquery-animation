@@ -41,3 +41,5 @@ Animation powers all kinds of nice-feeling web experiences - when a page has sat
 As with color, font, position, whitespace, and design generally, there is far more depth to animation than we are going to cover. You can check out [this tutorial](http://www.sitepoint.com/guide-jquery-animate-method/) to learn more. As always, getting good takes practice.
 
 Check the [documentation](https://api.jquery.com/category/effects/) for more examples and explanations.
+
+<a href='https://learn.co/lessons/cssi-3.6-jquery-animation' data-visibility='hidden'>View this lesson on Learn.co</a>

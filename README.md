@@ -42,4 +42,4 @@ As with color, font, position, whitespace, and design generally, there is far mo
 
 Check the [documentation](https://api.jquery.com/category/effects/) for more examples and explanations.
 
-<a href='https://learn.co/lessons/cssi-3.6-jquery-animation' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3.6-jquery-animation' title='Animation with jQuery and CSS'>Animation with jQuery and CSS</a> on Learn.co and start learning to code for free.</p>
